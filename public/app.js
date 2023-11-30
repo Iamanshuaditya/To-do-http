@@ -1,7 +1,7 @@
 const submitButton = document.querySelector(".submit");
 const List = document.querySelector("ul");
 const Todoitems = [];
-export default Todoitems;
+
 let todoCounter = 1;
 
 function addTask() {
